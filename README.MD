@@ -10,4 +10,4 @@
 
 ## 参考提交：
 
-https://github.com/DefinitelyTyped/DefinitelyTyped/pull/29731
+https://github.com/DefinitelyTyped/DefinitelyTyped/pull/29800#event-1910290965
