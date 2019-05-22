@@ -1,4 +1,4 @@
-// Type definitions for kos-core 2.2
+// Type definitions for kos-core 0.6
 // Project: https://github.com/ali-Kos/Kos
 // Definitions by: alibaba ali-Kos <https://github.com/ali-Kos>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
